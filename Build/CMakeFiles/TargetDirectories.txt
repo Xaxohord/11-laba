@@ -1,0 +1,3 @@
+C:/Git/11-laba/Build/CMakeFiles/11laba.dir
+C:/Git/11-laba/Build/CMakeFiles/ALL_BUILD.dir
+C:/Git/11-laba/Build/CMakeFiles/ZERO_CHECK.dir
